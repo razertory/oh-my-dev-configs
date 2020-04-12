@@ -1,0 +1,14 @@
+{
+    "ruby.codeCompletion": "rcodetools",
+    "ruby.format": "rubocop",
+    "editor.tabSize": 2,
+    "ruby.intellisense": "rubyLocate",
+    "files.defaultLanguage": "Ruby",
+    "workbench.colorTheme": "Monokai",
+    "editor.defaultFormatter": "rebornix.ruby",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true
+}
